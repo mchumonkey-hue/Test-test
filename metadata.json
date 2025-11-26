@@ -1,0 +1,7 @@
+{
+  "name": "Weekend Wanderer",
+  "description": "A smart weekend trip planner that uses Google Gemini and Maps Grounding to create perfect 2-day itineraries based on your vibe and destination.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
